@@ -17,7 +17,7 @@ Now it's possible! Glad to introduce you - Venom
 
 ---
 
-<a href="https://meacky3.github.io/id/91kxio6s" align="center"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a>
+<div href="https://meacky3.github.io/id/91kxio6s" align="center"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></div>
 
 > 🔧 Supported CPU: AMD & Intel
 > 
